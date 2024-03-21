@@ -21,9 +21,6 @@ const Header = () => {
         <Link to="/movies/upcoming" style={{ textDecoration: "none" }}>
           <span>Upcoming</span>
         </Link>
-        <Link to="/series/" style={{ textDecoration: "none" }}>
-          <span>Series</span>
-        </Link>
       </div>
     </div>
   );
